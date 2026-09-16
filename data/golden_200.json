@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "1455",
+    "tweet_text": "@AppleSupport Is the Apple Store on 5th Ave open on Christmas? #14",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1467",
+    "tweet_text": "@AppleSupport Purchased wrong app — can I get a refund within 24 hours? #14",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1309",
+    "tweet_text": "@AppleSupport Sign-in loop: enters password, goes back to login screen #14",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1407",
+    "tweet_text": "@AppleSupport Your hold music is actually pretty good lol #14",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1606",
+    "tweet_text": "@AppleSupport How do I merge two Apple ID accounts? I accidentally created two #14",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1010",
+    "tweet_text": "@AppleSupport AirDrop speed is incredible. Transferred 4GB in seconds #14",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1029",
+    "tweet_text": "@AppleSupport My screen is unresponsive after the recent update. Had to hard reset #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1415",
+    "tweet_text": "@AppleSupport You guys are amazing! Best tech support in the industry! #15",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1400",
+    "tweet_text": "@AppleSupport Apple Pencil latency is imperceptible now. Artists will love this #17",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1212",
+    "tweet_text": "@AppleSupport Bought an app that doesn't work as described. How do I get a refund? #15",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1034",
+    "tweet_text": "@AppleSupport Siri stopped working after I updated to the latest iOS. Doesn't respond #16",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1533",
+    "tweet_text": "@AppleSupport Is the Apple Store on 5th Ave open on Christmas? #14",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1024",
+    "tweet_text": "@AppleSupport Face ID not working in cold weather. Is this a known bug? #14",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1673",
+    "tweet_text": "@AppleSupport Accidental in-app purchase made by my kid. Can you help with a refund? #17",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1311",
+    "tweet_text": "@AppleSupport My screen is unresponsive after the recent update. Had to hard reset #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1530",
+    "tweet_text": "@AppleSupport How do I apply to be an Apple beta tester? #17",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1220",
+    "tweet_text": "@AppleSupport My iPhone battery drains from 100% to 0% in 3 hours since iOS update #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1620",
+    "tweet_text": "@AppleSupport My account was disabled without warning. I never violated any terms! #14",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1253",
+    "tweet_text": "@AppleSupport Is the iPhone 15 compatible with iOS 15?",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1397",
+    "tweet_text": "@AppleSupport How long does an account recovery request take? Been 3 days #14",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1200",
+    "tweet_text": "@AppleSupport I changed my phone number and now can't receive 2FA codes #16",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1560",
+    "tweet_text": "@AppleSupport Podcasts app keeps crashing mid-episode. Tried reinstalling #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1199",
+    "tweet_text": "@AppleSupport URGENT: Someone has full access to my email and Apple account. Emergency!",
+    "intent": "technical_support",
+    "should_escalate": true,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1441",
+    "tweet_text": "@AppleSupport How do I transfer data from my Android to my new iPhone 15?",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1114",
+    "tweet_text": "@AppleSupport Find My network shows my Mac as offline even though it's on #17",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1210",
+    "tweet_text": "@AppleSupport My iPhone 15 keeps crashing every time I open the camera!",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1576",
+    "tweet_text": "@AppleSupport Love the new iOS update! Dark mode looks incredible 🖤 #16",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1275",
+    "tweet_text": "@AppleSupport Absolutely love how fast Face ID is on iPhone 17 🔥 #17",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1216",
+    "tweet_text": "@AppleSupport App Store shows error 'Cannot connect to App Store' on my iPad #14",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1457",
+    "tweet_text": "@AppleSupport My account was disabled without warning. I never violated any terms! #14",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1147",
+    "tweet_text": "@AppleSupport My subscription was renewed even after I cancelled it last month #14",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1022",
+    "tweet_text": "@AppleSupport Can't sign in on my new iPhone. Keep getting 'Apple ID verification failed' #17",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1003",
+    "tweet_text": "@AppleSupport The Control Centre needs a major redesign. Too cluttered #15",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1002",
+    "tweet_text": "@AppleSupport Is the iPhone 15 compatible with iOS 15?",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1153",
+    "tweet_text": "@AppleSupport Messages not delivering on my iPhone. Shows sent but never received #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1327",
+    "tweet_text": "@AppleSupport iCloud storage downgraded automatically but still charged full price #16",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1021",
+    "tweet_text": "@AppleSupport The new Dynamic Island is so cool! Great design choice #16",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1127",
+    "tweet_text": "@AppleSupport What charities does Apple support? #15",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1321",
+    "tweet_text": "@AppleSupport Shoutout to the genius bar staff at NYC 5th Ave #15",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1475",
+    "tweet_text": "@AppleSupport Apple One subscription charged me but I can't access Apple TV+ #16",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1098",
+    "tweet_text": "@AppleSupport Can't sign in on my new iPhone. Keep getting 'Apple ID verification failed' #14",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1504",
+    "tweet_text": "@AppleSupport Hi Apple! Can you sponsor my YouTube channel? #17",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1283",
+    "tweet_text": "@AppleSupport Shoutout to the genius bar staff at NYC 5th Ave #16",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1464",
+    "tweet_text": "@AppleSupport You guys are amazing! Best tech support in the industry! #17",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1662",
+    "tweet_text": "@AppleSupport Sign-in loop: enters password, goes back to login screen #15",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1594",
+    "tweet_text": "@AppleSupport Safari crashes immediately on my Mac when visiting most websites #14",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1501",
+    "tweet_text": "@AppleSupport I was double-billed for iCloud+ storage this month #17",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1006",
+    "tweet_text": "@AppleSupport Messages not delivering on my iPhone. Shows sent but never received #17",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1067",
+    "tweet_text": "@AppleSupport Please bring back the headphone jack! Missing it so much #16",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1305",
+    "tweet_text": "@AppleSupport My iPhone overheats significantly when charging and using Maps #16",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1128",
+    "tweet_text": "@AppleSupport Accidental in-app purchase made by my kid. Can you help with a refund? #14",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1644",
+    "tweet_text": "@AppleSupport You guys are amazing! Best tech support in the industry! #17",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1345",
+    "tweet_text": "@AppleSupport App Store shows error 'Cannot connect to App Store' on my iPad #14",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1065",
+    "tweet_text": "@AppleSupport How do I merge two Apple ID accounts? I accidentally created two #16",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1246",
+    "tweet_text": "@AppleSupport I see an Apple charge on my credit card that I don't recognize #17",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1307",
+    "tweet_text": "@AppleSupport Messages not delivering on my iPhone. Shows sent but never received #17",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1470",
+    "tweet_text": "@AppleSupport Please add calculator to iPad. Can't believe it's still missing #17",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1592",
+    "tweet_text": "@AppleSupport Messages not delivering on my iPhone. Shows sent but never received #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1179",
+    "tweet_text": "@AppleSupport Podcasts app keeps crashing mid-episode. Tried reinstalling #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1375",
+    "tweet_text": "@AppleSupport Hi Apple! Can you sponsor my YouTube channel? #14",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1402",
+    "tweet_text": "@AppleSupport What's the maximum iCloud storage plan available? #17",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1101",
+    "tweet_text": "@AppleSupport Please bring back the headphone jack! Missing it so much #16",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1267",
+    "tweet_text": "@AppleSupport Wish Siri was smarter at context. Loses track after 2 questions #16",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1229",
+    "tweet_text": "@AppleSupport How do I enable Screen Time for my child's device? #17",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1007",
+    "tweet_text": "@AppleSupport Safari crashes immediately on my Mac when visiting most websites #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1130",
+    "tweet_text": "@AppleSupport Night Mode camera is absolutely stunning. Best phone camera ever #14",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1202",
+    "tweet_text": "@AppleSupport Two-factor authentication is not sending a code to my phone #15",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1431",
+    "tweet_text": "@AppleSupport Siri stopped working after I updated to the latest iOS. Doesn't respond #14",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1421",
+    "tweet_text": "@AppleSupport My Apple ID is linked to an old email I no longer have access to #15",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1303",
+    "tweet_text": "@AppleSupport Face ID not working in cold weather. Is this a known bug? #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1159",
+    "tweet_text": "@AppleSupport I'm locked out of my account. I've tried everything and nothing works!",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1257",
+    "tweet_text": "@AppleSupport Sign-in loop: enters password, goes back to login screen #16",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1240",
+    "tweet_text": "@AppleSupport I forgot my Apple ID email address and can't recover my account #14",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1580",
+    "tweet_text": "@AppleSupport Face ID not working in cold weather. Is this a known bug? #17",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1290",
+    "tweet_text": "@AppleSupport My Apple ID is linked to an old email I no longer have access to #17",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1372",
+    "tweet_text": "@AppleSupport I was charged twice for the same app purchase! Need a refund #17",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1641",
+    "tweet_text": "@AppleSupport My Apple Pay transaction failed but money left my account #15",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1295",
+    "tweet_text": "@AppleSupport My iPhone overheats significantly when charging and using Maps #14",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1014",
+    "tweet_text": "@AppleSupport Wish Siri was smarter at context. Loses track after 2 questions #17",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1025",
+    "tweet_text": "@AppleSupport Face ID not working in cold weather. Is this a known bug? #17",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1047",
+    "tweet_text": "@AppleSupport Apple One subscription charged me but I can't access Apple TV+ #17",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1064",
+    "tweet_text": "@AppleSupport Find My network shows my Mac as offline even though it's on #14",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1157",
+    "tweet_text": "@AppleSupport Just wanted to say thank you for the quick help yesterday! #17",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1360",
+    "tweet_text": "@AppleSupport Would love multi-window support on iPhone like iPad has #15",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1389",
+    "tweet_text": "@AppleSupport iOS 17 update broke my WiFi. I can't connect to any network now.",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1174",
+    "tweet_text": "@AppleSupport Bought an app that doesn't work as described. How do I get a refund? #14",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1552",
+    "tweet_text": "@AppleSupport Does the new iPad Pro support the Apple Pencil 2nd gen? #15",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1422",
+    "tweet_text": "@AppleSupport Stage Manager on iPad is confusing. Really needs a tutorial #15",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1148",
+    "tweet_text": "@AppleSupport Sign-in loop: enters password, goes back to login screen #16",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1326",
+    "tweet_text": "@AppleSupport Find My network shows my Mac as offline even though it's on #16",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1308",
+    "tweet_text": "@AppleSupport Verification code not coming through even after 3 attempts #17",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1116",
+    "tweet_text": "@AppleSupport My MacBook Pro won't start after the latest macOS update #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1196",
+    "tweet_text": "@AppleSupport I changed my phone number and now can't receive 2FA codes #17",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1035",
+    "tweet_text": "@AppleSupport Notification grouping is still messy. Needs work Apple #17",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1472",
+    "tweet_text": "@AppleSupport Can I use my AirPods with a non-Apple device? #14",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1243",
+    "tweet_text": "@AppleSupport Would love multi-window support on iPhone like iPad has #15",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1536",
+    "tweet_text": "@AppleSupport Can I use my AirPods with a non-Apple device? #14",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1310",
+    "tweet_text": "@AppleSupport Stage Manager on iPad is confusing. Really needs a tutorial #15",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1115",
+    "tweet_text": "@AppleSupport Can I use Apple Pay in stores internationally? #15",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1507",
+    "tweet_text": "@AppleSupport My Apple ID password reset email never arrived. What should I do?",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1635",
+    "tweet_text": "@AppleSupport What's the maximum iCloud storage plan available? #17",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1663",
+    "tweet_text": "@AppleSupport Face ID not working in cold weather. Is this a known bug? #17",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1234",
+    "tweet_text": "@AppleSupport iTunes gift card balance disappeared from my account #16",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1273",
+    "tweet_text": "@AppleSupport My iPhone speaker has distortion at high volumes after iOS update #17",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1223",
+    "tweet_text": "@AppleSupport Hi Apple! Can you sponsor my YouTube channel? #17",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1630",
+    "tweet_text": "@AppleSupport I was charged twice for the same app purchase! Need a refund #15",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1348",
+    "tweet_text": "@AppleSupport I received a refund email but it hasn't appeared in my bank account #17",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1398",
+    "tweet_text": "@AppleSupport My iPhone speaker has distortion at high volumes after iOS update #17",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1672",
+    "tweet_text": "@AppleSupport Apple One subscription charged me but I can't access Apple TV+ #14",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1012",
+    "tweet_text": "@AppleSupport Is Apple Care+ worth it for iPhone 15? #15",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1610",
+    "tweet_text": "@AppleSupport Apple One subscription charged me but I can't access Apple TV+ #16",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1371",
+    "tweet_text": "@AppleSupport Can't sign in on my new iPhone. Keep getting 'Apple ID verification failed' #14",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1057",
+    "tweet_text": "@AppleSupport The new Dynamic Island is so cool! Great design choice #16",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1512",
+    "tweet_text": "@AppleSupport Podcasts app keeps crashing mid-episode. Tried reinstalling #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1276",
+    "tweet_text": "@AppleSupport My account shows 'suspicious activity' but I haven't done anything #15",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1377",
+    "tweet_text": "@AppleSupport My Apple Watch won't pair with my new iPhone 14",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1658",
+    "tweet_text": "@AppleSupport My MacBook Pro won't start after the latest macOS update #14",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1078",
+    "tweet_text": "@AppleSupport My iPhone speaker has distortion at high volumes after iOS update #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1553",
+    "tweet_text": "@AppleSupport Your hold music is actually pretty good lol #17",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1134",
+    "tweet_text": "@AppleSupport My iPhone overheats significantly when charging and using Maps #14",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1087",
+    "tweet_text": "@AppleSupport Does the new iPad Pro support the Apple Pencil 2nd gen? #17",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1269",
+    "tweet_text": "@AppleSupport I wish the iPhone had a USB-C port. Why stick with Lightning? #17",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1077",
+    "tweet_text": "@AppleSupport I changed my phone number and now can't receive 2FA codes #15",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1092",
+    "tweet_text": "@AppleSupport My MacBook Pro won't start after the latest macOS update #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1109",
+    "tweet_text": "@AppleSupport My account shows 'suspicious activity' but I haven't done anything #15",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1521",
+    "tweet_text": "@AppleSupport I'm locked out of my account. I've tried everything and nothing works!",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1038",
+    "tweet_text": "@AppleSupport I was double-billed for iCloud+ storage this month #17",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1103",
+    "tweet_text": "@AppleSupport Does Tim Cook read these tweets? #15",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1675",
+    "tweet_text": "@AppleSupport FRAUD! Someone made unauthorized purchases on my account! This is identity theft!",
+    "intent": "account_issue",
+    "should_escalate": true,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1201",
+    "tweet_text": "@AppleSupport AirDrop speed is incredible. Transferred 4GB in seconds #15",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1079",
+    "tweet_text": "@AppleSupport My AirTag shows 'Not Reachable' even though it's right next to me #16",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1341",
+    "tweet_text": "@AppleSupport Touch ID stopped recognizing my fingerprint out of nowhere #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1090",
+    "tweet_text": "@AppleSupport Family sharing isn't working but each member is being charged separately #17",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1094",
+    "tweet_text": "@AppleSupport Notification grouping is still messy. Needs work Apple #15",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1133",
+    "tweet_text": "@AppleSupport Love the new iOS update! Dark mode looks incredible 🖤 #16",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1645",
+    "tweet_text": "@AppleSupport I wish the iPhone had a USB-C port. Why stick with Lightning? #17",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1231",
+    "tweet_text": "@AppleSupport Password keeps getting rejected even though I know it's correct #16",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1111",
+    "tweet_text": "@AppleSupport Family sharing isn't working but each member is being charged separately #17",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1046",
+    "tweet_text": "@AppleSupport My Apple ID is linked to an old email I no longer have access to #17",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1573",
+    "tweet_text": "@AppleSupport Two-factor authentication is not sending a code to my phone #15",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1008",
+    "tweet_text": "@AppleSupport My screen is unresponsive after the recent update. Had to hard reset #16",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1428",
+    "tweet_text": "@AppleSupport When will the next macOS update be released? #16",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1023",
+    "tweet_text": "@AppleSupport My Apple ID password reset email never arrived. What should I do?",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1192",
+    "tweet_text": "@AppleSupport I'm locked out of my account. I've tried everything and nothing works!",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1450",
+    "tweet_text": "@AppleSupport Sign-in loop: enters password, goes back to login screen #16",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1601",
+    "tweet_text": "@AppleSupport My iPhone battery drains from 100% to 0% in 3 hours since iOS update #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1408",
+    "tweet_text": "@AppleSupport Purchased wrong app — can I get a refund within 24 hours? #14",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1069",
+    "tweet_text": "@AppleSupport I see an Apple charge on my credit card that I don't recognize #15",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1429",
+    "tweet_text": "@AppleSupport Messages not delivering on my iPhone. Shows sent but never received #14",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1161",
+    "tweet_text": "@AppleSupport Password keeps getting rejected even though I know it's correct #16",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1293",
+    "tweet_text": "@AppleSupport How do I enable Screen Time for my child's device? #17",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1154",
+    "tweet_text": "@AppleSupport iCloud sync stopped working — my photos aren't backing up #14",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1292",
+    "tweet_text": "@AppleSupport My iPhone overheats significantly when charging and using Maps #16",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1193",
+    "tweet_text": "@AppleSupport How many devices can share one Apple Music family plan? #15",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1376",
+    "tweet_text": "@AppleSupport Battery life on M2 MacBook Air is unreal. Full day easily #16",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1228",
+    "tweet_text": "@AppleSupport How do I merge two Apple ID accounts? I accidentally created two #14",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1460",
+    "tweet_text": "@AppleSupport Podcasts app keeps crashing mid-episode. Tried reinstalling #14",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1634",
+    "tweet_text": "@AppleSupport Accidental in-app purchase made by my kid. Can you help with a refund? #14",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1650",
+    "tweet_text": "@AppleSupport Home button feels sticky and sometimes doesn't respond #16",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1279",
+    "tweet_text": "@AppleSupport I was charged twice for the same app purchase! Need a refund #16",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1679",
+    "tweet_text": "@AppleSupport My account was disabled without warning. I never violated any terms! #15",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1654",
+    "tweet_text": "@AppleSupport My account was disabled without warning. I never violated any terms! #15",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1532",
+    "tweet_text": "@AppleSupport My account was disabled without warning. I never violated any terms! #17",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1294",
+    "tweet_text": "@AppleSupport Can I use Apple Pay in stores internationally? #16",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1255",
+    "tweet_text": "@AppleSupport Stage Manager on iPad is confusing. Really needs a tutorial #14",
+    "intent": "product_feedback",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1577",
+    "tweet_text": "@AppleSupport What countries support eSIM for iPhone 17?",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1526",
+    "tweet_text": "@AppleSupport My account shows 'suspicious activity' but I haven't done anything #14",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1392",
+    "tweet_text": "@AppleSupport My screen is unresponsive after the recent update. Had to hard reset #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1624",
+    "tweet_text": "@AppleSupport I changed my phone number and now can't receive 2FA codes #14",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1084",
+    "tweet_text": "@AppleSupport Hi Apple! Can you sponsor my YouTube channel? #14",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1033",
+    "tweet_text": "@AppleSupport I'm locked out of my account. I've tried everything and nothing works!",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1230",
+    "tweet_text": "@AppleSupport I see an Apple charge on my credit card that I don't recognize #15",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1171",
+    "tweet_text": "@AppleSupport Does Apple Watch Series 8 work without an iPhone nearby? #17",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1110",
+    "tweet_text": "@AppleSupport My iPhone speaker has distortion at high volumes after iOS update #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1541",
+    "tweet_text": "@AppleSupport My iPhone overheats significantly when charging and using Maps #16",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1323",
+    "tweet_text": "@AppleSupport How do I apply to be an Apple beta tester? #14",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1075",
+    "tweet_text": "@AppleSupport My account was permanently locked and I'm locked out of my business data. CRITICAL",
+    "intent": "technical_support",
+    "should_escalate": true,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1655",
+    "tweet_text": "@AppleSupport Is the iPhone 14 waterproof? What rating?",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1370",
+    "tweet_text": "@AppleSupport Siri stopped working after I updated to the latest iOS. Doesn't respond #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1596",
+    "tweet_text": "@AppleSupport Family sharing isn't working but each member is being charged separately #14",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1203",
+    "tweet_text": "@AppleSupport Can I use my AirPods with a non-Apple device? #16",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1369",
+    "tweet_text": "@AppleSupport My account shows 'suspicious activity' but I haven't done anything #14",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1168",
+    "tweet_text": "@AppleSupport Bluetooth keeps disconnecting on my AirPods Pro every 5 minutes #15",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1474",
+    "tweet_text": "@AppleSupport How long does an account recovery request take? Been 3 days #14",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1015",
+    "tweet_text": "@AppleSupport App Store shows error 'Cannot connect to App Store' on my iPad #17",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1557",
+    "tweet_text": "@AppleSupport I was charged twice for the same app purchase! Need a refund #17",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1546",
+    "tweet_text": "@AppleSupport iCloud storage downgraded automatically but still charged full price #14",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1438",
+    "tweet_text": "@AppleSupport iCloud storage downgraded automatically but still charged full price #15",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1352",
+    "tweet_text": "@AppleSupport What's the maximum iCloud storage plan available? #15",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1519",
+    "tweet_text": "@AppleSupport Can I get a job at Apple? #16",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1072",
+    "tweet_text": "@AppleSupport My subscription was renewed even after I cancelled it last month #17",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1350",
+    "tweet_text": "@AppleSupport My iPhone 14 keeps crashing every time I open the camera!",
+    "intent": "technical_support",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1058",
+    "tweet_text": "@AppleSupport Two-factor authentication is not sending a code to my phone #15",
+    "intent": "account_issue",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1013",
+    "tweet_text": "@AppleSupport Accidental in-app purchase made by my kid. Can you help with a refund? #17",
+    "intent": "billing_refund",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1584",
+    "tweet_text": "@AppleSupport What countries support eSIM for iPhone 17?",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1660",
+    "tweet_text": "@AppleSupport Does Tim Cook read these tweets? #15",
+    "intent": "other",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "medium"
+  },
+  {
+    "id": "1194",
+    "tweet_text": "@AppleSupport How many devices can share one Apple Music family plan? #14",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1595",
+    "tweet_text": "@AppleSupport Is Apple Care+ worth it for iPhone 15? #15",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1565",
+    "tweet_text": "@AppleSupport I've been locked out for 30 days, I'm losing my small business over this",
+    "intent": "technical_support",
+    "should_escalate": true,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  },
+  {
+    "id": "1250",
+    "tweet_text": "@AppleSupport Can I use my AirPods with a non-Apple device? #15",
+    "intent": "general_inquiry",
+    "should_escalate": false,
+    "annotator": "annotator_1",
+    "confidence": "high"
+  }
+]
